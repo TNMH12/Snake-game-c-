@@ -23,7 +23,7 @@ void Setup()
 }
 void Draw()
 {
-//    system("cls");
+    system("cls");
     for (int i=0; i<rong; i++)
     {
         for (int j=0;j<dai; j++)
